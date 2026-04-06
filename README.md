@@ -4,6 +4,18 @@ Tickr is an offline-first Android task management app built with Kotlin and Jetp
 
 It is designed as an interview-ready project that showcases how to build a local-first app with Room as the single source of truth, reactive UI using Flow/StateFlow, and resilient background sync using WorkManager.
 
+<p align="center">
+  <img src="HomePage.png" width="250"/>
+  <img src="AddTask.png" width="250"/>
+  <img src="TaskList.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="ActiveTaskPage.png" width="250"/>
+  <img src="CompletedPage.png" width="250"/>
+</p>
+
+
 ## Tech Stack
 
 - Kotlin
